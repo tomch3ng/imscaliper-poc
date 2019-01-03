@@ -1,0 +1,22 @@
+{
+  "name": "imscaliper-poc",
+  "version": "1.0.0",
+  "description": "POC application for generating Caliper analytics events",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomch3ng/imscaliper-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomch3ng/imscaliper-poc/issues"
+  },
+  "homepage": "https://github.com/tomch3ng/imscaliper-poc#readme",
+  "dependencies": {
+    "restify": "^7.4.0"
+  }
+}
