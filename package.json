@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tomch3ng/imscaliper-poc#readme",
   "dependencies": {
+    "ims-caliper": "^1.0.3",
     "restify": "^7.4.0"
   }
 }
